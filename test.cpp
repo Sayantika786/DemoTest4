@@ -10,7 +10,7 @@ public:
     // Usage of virtual constructor
     virtual void calculate()
     {
-        cout << "Area of your Shape " << "Local + remote edit";
+        cout << "Area of your Shape " << "Local + remote edit + 2nd Remote update";
     }
     // usage of virtual Destuctor to avoid memory leak
     virtual ~Shape()
